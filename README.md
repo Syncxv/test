@@ -1,7 +1,8 @@
-# Tauri + Solid + Typescript
+pls help
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+so basically when i invoke my command from the frontend it says the the command isnt found. when i change the order of patch from last to the first it makes get_config work but the patch no longer works (not found) and when i patch to the last it makes the patch work but the get_config doesnt work. i have no idea why this is happening and i have tried everything i could think of. any help would be appreciated. thanks in advance
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
+https://github.com/Syncxv/test/assets/47534062/ec93fb22-063c-4a71-975f-356f115553a1
+
