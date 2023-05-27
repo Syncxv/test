@@ -6,3 +6,6 @@ so basically when i invoke my command from the frontend it says the the command 
 
 https://github.com/Syncxv/test/assets/47534062/ec93fb22-063c-4a71-975f-356f115553a1
 
+
+
+im such a dumbass bro. ITS AN ARRAY IDIOT. you should only call invoke_handler once and pass all the commands in the array FUCK IM SO STUPID MAN WHAT THE HELL https://tauri.app/v1/guides/features/command/#creating-multiple-commands
