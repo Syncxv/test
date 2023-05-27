@@ -25,9 +25,7 @@ fn get_config() -> String {
 
 fn main() {
     tauri::Builder::default()
-        .invoke_handler(tauri::generate_handler![patch])
-        .invoke_handler(tauri::generate_handler![greet])
-        .invoke_handler(tauri::generate_handler![get_config])
+        .invoke_handler(tauri::generate_handler![greet, get_config, patch])
         .run(tauri::generate_context!())
         .expect("error while running tauri application");
 }
